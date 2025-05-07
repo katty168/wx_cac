@@ -8,6 +8,6 @@
         "type": "image/jpg"
       }],
     "start_url": "/wx_cac/",
-    "scope": "/wx_cac/",
+    "scope": "http://cac.main.jp/index.html",
     "display": "standalone"
   }
