@@ -7,7 +7,7 @@
        "sizes": "256x256",
        "type": "image/jpg"
       }],
-   "start_url": "http://cac.main.jp/index.html",
-   "scope": "http://cac.main.jp/index.html",
+   "start_url": "wx_cac",
+   "scope": "wx_cac",
    "display": "standalone"
   }
