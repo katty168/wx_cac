@@ -7,7 +7,7 @@
        "sizes": "256x256",
        "type": "image/jpg"
       }],
-   "start_url": "wx_cac",
-   "scope": "wx_cac",
+   "start_url": "/wx_cac/",
+   "scope": "/wx_cac/",
    "display": "standalone"
  }
